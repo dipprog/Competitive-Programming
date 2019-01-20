@@ -30,3 +30,6 @@ int main(){
   cout<<"The most frequent element is : "<<result<<endl;
   return 0;
 }
+
+// Time complexity : O(n)
+// Space complexity : O(n)
